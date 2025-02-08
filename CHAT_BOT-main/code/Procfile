@@ -1,0 +1,2 @@
+web: ./build/install/ktor-server-poo/bin/ktor-server-poo
+web: java -jar target/code-1.0.0-SNAPSHOT.jar
